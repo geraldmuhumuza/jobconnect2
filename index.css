@@ -1,0 +1,42 @@
+/* src/assets/styles.css */
+.job-board {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .navbar{
+    background-color: #4f46e5;
+  }
+  
+  .navbar button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    border: none;
+    background: #4f46e5;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .product-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .apply-link {
+    color: #4f46e5;
+    text-decoration: underline;
+  }
+  .footer {
+    margin-top: 30px;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+.text-2xl font-semibold mb-4 text-indigo-700 .grid gap-6 .job-card{
+    border:1px hsl(211, 100%, 50%);
+}
